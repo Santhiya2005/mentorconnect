@@ -6,7 +6,7 @@ Landing Preview
 ![Screenshot 2025-01-03 193537](https://github.com/user-attachments/assets/15566af0-55ed-4e7e-9031-5dcf38d0559c)
 
 
-Mentor Connect is an online platform designed to bridge the gap between junior and senior/alumni students within our university. It serves as a dynamic directory that facilitates connections, enabling students to seek guidance and expertise from experienced mentors in various fields.
+Mentor Connect is an innovative platform that connects junior students with seniors and alumni within our university. Acting as a dynamic directory, it empowers students to access guidance, share expertise, and build meaningful mentor-mentee relationships across diverse fields.
 
 ## Table of Contents
 - [Why Mentor Connect?](#why-mentorconnect?)
