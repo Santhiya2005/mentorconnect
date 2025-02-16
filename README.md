@@ -41,7 +41,7 @@ Mentor Connect is built using the following technologies:
 To run Mentor connect locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/Mentor_connect.git`
-2. Navigate to the project directory: `cd ConnectLNM`
+2. Navigate to the project directory: `cd MentorConnect`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
