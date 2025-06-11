@@ -1,6 +1,6 @@
 # Mentor Connect
 A Platform that aims to streamline university networking by seamlessly connecting students with mentors. While this version is built in the MERN Stack.
-
+## Deployement link: 
 Landing Preview
 
 ![Screenshot 2025-01-03 193537](https://github.com/user-attachments/assets/15566af0-55ed-4e7e-9031-5dcf38d0559c)
